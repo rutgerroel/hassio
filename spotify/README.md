@@ -1,4 +1,4 @@
-# Community Hass.io Add-ons: Spotify Connect
+# Community Hass.io Add-ons: Spotify Connect 2
 
 [![Release][release-shield]][release] ![Project Stage][project-stage-shield] ![Project Maintenance][maintenance-shield]
 
