@@ -24,6 +24,6 @@
     "name": "Hass.io",
     "bitrate": 160
   },
-  "schema": False,
+  "schema": {},
   "image": "hassioaddons/spotify-{arch}"
 }
